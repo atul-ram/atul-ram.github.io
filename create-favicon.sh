@@ -32,7 +32,7 @@ function saveimage() {
 
 #----------------------------------------------------------------------
 # Text/label
-label="T"
+label="A"
 
 font="OverlockBlackItalic"
 

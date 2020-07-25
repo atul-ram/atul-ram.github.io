@@ -4,9 +4,9 @@ title: Second Page
 date: 2020-07-25
 update_date: 2020-07-26
 summary: An introduction.
-logo: certificate
+logo: pagelines
 ---
 
 # Second item
 
-## mt thoughts
+## my thoughts
