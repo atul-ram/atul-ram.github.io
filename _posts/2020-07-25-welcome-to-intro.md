@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to Trio
+title: Welcome my Blog
 date: 2020-07-05
 update_date: 2020-07-12
 summary: An introduction.
