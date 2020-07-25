@@ -3,6 +3,9 @@ layout: default
 title: My Blog
 ---
 
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+
 <div id="home">
   <h1>Blog Posts</h1>
   <ul class="posts">
