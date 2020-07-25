@@ -1,2 +1,57 @@
-markdown: rdiscount
-pygments: true
+# Site wide configuration
+title: Trio
+description: 'A simple content-focused Jekyll theme'
+url: http://www.perfectlyrandom.org/trio
+date_format: '%B %d, %Y'
+fort_awesome_icon: 'cog fa-spin'
+
+# Owner configuration
+# name and email are required (change code to remove these)
+# (leave the rest blank to disable the corresponding sharing button)
+owner:
+    name: Atul Sahu
+    email: atul.ram@gmail.com
+    github: atul-ram
+    twitter: atulsahu
+    linkedin: atul-sahu-29331612
+    facebook:
+    google_plus:
+    youtube:
+
+# Post sharing icons
+sharing:
+    twitter: true
+    linkedin: true
+    facebook: true
+    google_plus: true
+    reddit: true
+
+# Disqus comments configuration (leave blank to disable comments)
+disqus_shortname: 'perfectlyrandom-trio'
+
+# Jekyll configuration
+permalink: /:year/:month/:day/:title/
+paginate: 4
+
+# Markdown
+markdown: redcarpet
+highlighter: rouge
+
+# Enable when using redcarpet
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data', 'footnotes']
+
+# Enable when using kramdown (you will need to use ~~~ instead of ```)
+# kramdown:
+#   auto_ids: true
+#   footnote_nr: 1
+#   entity_output: as_char
+#   toc_levels: 1..6
+#   use_coderay: false
+
+# Gems
+gems: ['jekyll-paginate']
+
+# Exclude
+exclude: ['README.md']
+
