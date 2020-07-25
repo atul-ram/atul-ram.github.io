@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Diary
+title: My Blog
 ---
 
 <div id="home">
