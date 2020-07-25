@@ -3,8 +3,8 @@ layout: default
 title: My Blog
 ---
 
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
+<h1>Intro</h1>
+<p>I've been into Cloud journey for a quite sometime now.This led me to create my own list of notes. Opinions are my own.</p>
 
 <div id="home">
   <h1>Blog Posts</h1>
