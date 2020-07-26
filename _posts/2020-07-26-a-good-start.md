@@ -1,13 +1,15 @@
 ---
-title: Text and Typography
-author: Cotes Chung
-date: 2019-08-08 11:33:00 +0800
-categories: [Blogging, Demo]
-tags: [typography]
+title: A good Start
+author: Atul Sahu
+date: 2020-07-26 11:33:00 +0800
+categories: [Blogging, Diary]
+tags: [getting started]
 math: true
 ---
 
-This Jekyll template totally compatible with Markdown syntax. Now, let's take a look for the text and typography in here.
+## Desire
+
+For a long time, i wanted to start my own blog. and this summer i got my hands on this Jekyll template, this one looks cool and the paeg management is also simple, totally compatible with Markdown syntax. Now, let's take a look for the text and typography in here.
 
 ## Titles
 
