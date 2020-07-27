@@ -1,3 +1,8 @@
+
+# check sitemap
+
+https://search.google.com/search-console/sitemaps?resource_id=https%3A%2F%2Fatul-ram.github.io%2F
+
 # Chirpy
 
 🌏 English • [简体中文](docs/README_zh-CN.md)

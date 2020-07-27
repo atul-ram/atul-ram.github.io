@@ -2,7 +2,7 @@
 title:  service principal access database using powershell
 author: Atul Sahu
 date: 2020-07-27 16:33:00 +0000
-categories: [Blogging, Diary]
+categories: [Blogging, Azure, Powershell]
 tags: [getting started]
 math: true
 ---
