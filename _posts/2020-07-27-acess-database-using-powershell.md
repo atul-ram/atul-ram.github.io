@@ -1,7 +1,7 @@
 ---
-title: A powershell
+title:  service principal acess database using powershell
 author: Atul Sahu
-date: 2020-07-27 11:33:00 +0800
+date: 2020-07-27 16:33:00 +0000
 categories: [Blogging, Diary]
 tags: [getting started]
 math: true
@@ -27,14 +27,13 @@ BEGIN
 	SET @SqlCmd = 'SELECT TOP(2) * FROM [dbo].[Employee]';
 	PRINT @SQlCmd
 	EXEC (@SQlCmd)
-	
 END
 
 ```
 
 and powershell
 
-```shell
+```terminal
 
 #region Connect to Azure SQL DB using Service Principal Account 
 $TenantId = "XXXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX"
@@ -113,6 +112,7 @@ finally {
             $dataSet.Tables
         }
 } # close finally
+
 ```
 
 ## Sample Output
