@@ -19,7 +19,7 @@ Create two files, as below and run
 
 I saved below Scriptfile ona local path `'..\Select.sql'`
 
-```powershell
+```shell
 
 DECLARE @SqlCmd VARCHAR(4096);
 BEGIN

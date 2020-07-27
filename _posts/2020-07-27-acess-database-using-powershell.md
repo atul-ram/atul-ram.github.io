@@ -34,7 +34,7 @@ END
 
 and powershell
 
-```Powershell
+```shell
 
 #region Connect to Azure SQL DB using Service Principal Account 
 $TenantId = "XXXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX"
