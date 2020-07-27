@@ -1,7 +1,7 @@
 ---
-title: Acess Database using Powershell.
+title: Acess Database using Powershell
 author: Atul Sahu
-date: 2020-07-27 11:00:00
+date: 2020-07-27 11:00:00 +8:00
 categories: [Powershell, Azure]
 tags: [Azure]
 math: true
