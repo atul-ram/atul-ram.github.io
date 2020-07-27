@@ -118,3 +118,5 @@ finally {
 ## Sample Output
 
 ![sample output](../assets/img/sample/2020-07-27_1.JPG)
+
+>**Disclaimer**: This is a personal weblog. The opinions expressed here represent my own and not those of any entity with which I have been, am now, or will be affiliated.

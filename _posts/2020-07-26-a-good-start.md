@@ -164,7 +164,6 @@ fi;
 </div>
 ```
 
-
 ## Reverse Footnote
 
 [^footnote]: The footnote source.
