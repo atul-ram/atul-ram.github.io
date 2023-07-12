@@ -1,6 +1,6 @@
 
 ---
-title:  bicep using powershell
+title: bicep using
 author: Atul Sahu
 date: 2023-07-12 14:46:00 +0000
 categories: [Blogging, Azure, Powershell]
