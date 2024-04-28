@@ -9,3 +9,5 @@ math: true
 ---
 
 # GitOps workflow
+
+![overall](../assets/img/sample/2024-04-28_gitops-aks.jpg)
